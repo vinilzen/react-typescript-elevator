@@ -1,5 +1,5 @@
 import { API_URL } from '../api/const';
-import { getJSON } from '../api/getJson';
+import { getJSON } from '../api/getJSON';
 
 export interface BuildingShape {
   elevators: number;
